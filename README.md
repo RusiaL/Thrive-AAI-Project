@@ -1,6 +1,17 @@
 # EU Sustainability Performance Tier Classification
-<i>Final work of Thrive Applied AI Path</i>
-Analysis of pre-prepared dataset with indicators across some of 17 SDGs for European countries. See the full task here: [Thrive AAI Project B_ Classifying EU Sustainability Performance](https://github.com/RusiaL/Thrive-AAI-Project/blob/main/Thrive-AAI-Project-B.pdf).
-- 'Option-B-part-I.ipynb' : realizes data exploration
-- 'Option-B-part-II.ipynb' : implements model training & evaluation
-- 'Option-B-part-III.ipynb' : provides data for policy insights
+*Final work of Thrive Applied AI Path*
+
+This project analyzes a pre-prepared dataset with indicators across selected UN Sustainable Development Goals (SDGs) for European countries.  
+The objective is to classify EU member states into performance tiers and provide insights that may support policy decision-making.  
+
+Full task description: [Thrive AAI Project B — Classifying EU Sustainability Performance](https://github.com/RusiaL/Thrive-AAI-Project/blob/main/Thrive-AAI-Project-B.pdf)
+
+---
+
+## Repository Structure
+
+- **`Option-B-part-I.ipynb`** : Exploratory Data Analysis (EDA):  
+
+- **`Option-B-part-II.ipynb`** : Model training & evaluation:  
+
+- **`Option-B-part-III.ipynb`** : Data for Policy insights
