@@ -15,3 +15,5 @@ Full task description: [Thrive AAI Project B — Classifying EU Sustainability P
 - **`Option-B-part-II.ipynb`** : Model training & evaluation:  
 
 - **`Option-B-part-III.ipynb`** : Data for Policy insights
+
+![Title page](use_case_documentation/Screenshot%2001.png)
