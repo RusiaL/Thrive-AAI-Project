@@ -8,7 +8,7 @@ Full task description: [Thrive AAI Project B — Classifying EU Sustainability P
 
 ---
 
-## Repository Structure
+## Notebooks
 
 - **`Option-B-part-I.ipynb`** : Exploratory Data Analysis (EDA):  
 
