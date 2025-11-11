@@ -5,7 +5,8 @@
 
 This project was developed as part of the Kiron Thrive Program (AAI-9) and addresses the challenge of classifying European countries based on their sustainability performance. 
 
-This project analyzes a pre-prepared dataset with indicators across selected UN Sustainable Development Goals (SDGs) for European countries.  
+This project analyzes a pre-prepared dataset with indicators across selected UN Sustainable Development Goals (SDGs) for European countries.
+
 The objective is to classify EU member states into performance tiers and provide insights that may support policy decision-making.  
 
 ---
