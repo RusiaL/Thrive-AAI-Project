@@ -23,8 +23,8 @@ Structured, country-level sustainability indicators covering economy, environmen
   - **`Option-B-part-II.ipynb`** : Model training & evaluation
   - **`Option-B-part-III.ipynb`** : Data for Policy insights
 - [policy_analysis/](./policy_analysis) – A brief report with tier profiles and advancement strategies for EU decision-makers
-required_libraries.txt – Python dependencies
-README.md – Project documentation (this file)
+- README.md – Project documentation
+- required_libraries.txt – Python dependencies
 
 ---
 
